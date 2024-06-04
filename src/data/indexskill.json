@@ -46,7 +46,7 @@
                             },
                             {
                                 "id":"7",
-                                "src":"../src/assets/react.png",
+                                "src":"https://i.ibb.co/jGZ3Q8f/react.png",
                                 "title":"React",
                                 "exp":"Intermediate",
                                 "description":"Expertise in React for building user interfaces with a component-based approach."

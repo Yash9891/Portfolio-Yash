@@ -11,7 +11,7 @@ export default function Resume() {
 
    <div className='blckcolor'>
     <h2>Crafting Success One <span>Achievement</span> at a <span>Time</span></h2>
-   <a href="../src/assets/resume2.pdf" target="_blank" rel="noreferrer">
+   <a href="https://drive.google.com/file/d/1FEttPjfKyItEhIfz6EtPlEUi9EPGrgPj/view" target="_blank" rel="noreferrer">
       View My Resume
     </a>
    </div>
@@ -24,7 +24,7 @@ export default function Resume() {
         <a className='gitcontainer' href="https://github.com/Yash9891" target="_blank" rel="noreferrer">
         <img src="https://i.ibb.co/Xx0Jdzp/git.png" alt="" />
    <div className='gitInside'>
-   <h1>Gihub</h1>
+   <h1>Github</h1>
         <h2>Building the future, one commit at a time.</h2>
    </div>
         </a>
