@@ -22,7 +22,7 @@ export default function Resume() {
       <div className='github'>
         
         <a className='gitcontainer' href="https://github.com/Yash9891" target="_blank" rel="noreferrer">
-        <img src="../src/assets/git.png" alt="" />
+        <img src="https://i.ibb.co/Xx0Jdzp/git.png" alt="" />
    <div className='gitInside'>
    <h1>Gihub</h1>
         <h2>Building the future, one commit at a time.</h2>
@@ -32,7 +32,7 @@ export default function Resume() {
       </div>
       <div className='linkedin'>
       <a className='gitcontainer' href="https://www.linkedin.com/in/yash-40875a262/" target="_blank" rel="noreferrer">
-        <img src="../src/assets/linkedin.png" alt="" />
+        <img src="https://i.ibb.co/mycktSf/linkedin.png" alt="" />
    <div className='gitInside'>
    <h1>LinkedIn</h1>
         <h2>Forge connections, shape your future.</h2>

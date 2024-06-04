@@ -3,14 +3,14 @@
     "skills":[
         {
         "id":"1",
-        "src":"../src/assets/cpp.png",
+        "src":"https://i.ibb.co/myDyKfD/cpp.png",
         "title":"C++",
         "description":"Proficient in C++ for high-performance system/software development.",
         "exp":"Intermediate"
         },
         {
             "id":"2",
-            "src":"../src/assets/javascript.png",
+            "src":"https://i.ibb.co/9nWcbpK/javascript.webp",
             "title":"Java Script",
             "exp":"Intermediate",
             "description":"Expertise in JavaScript for dynamic web content and interactive experiences."
@@ -18,28 +18,28 @@
             },
             {
                 "id":"3",
-                "src":"../src/assets/node.png",
+                "src":"https://i.ibb.co/JB08b7p/node.webp",
                 "title":"NodeJs",
                 "exp":"Biginner",
                 "description":"Skilled in Node.js for server-side JavaScript execution."
                 },
                 {
                     "id":"4",
-                    "src":"../src/assets/express.png",
+                    "src":"https://i.ibb.co/p1SgGnQ/express.png",
                     "title":"ExpressJs",
                     "exp":"Intermediate",
                     "description":"Proficient in Express.js for developing web and mobile applications with Node.js."
                     },
                     {
                         "id":"5",
-                        "src":"../src/assets/sql.png",
+                        "src":"https://i.ibb.co/ZcCzLJp/sql.png",
                         "title":"SQL",
                         "exp":"Intermediate",
                         "description":"Experienced in SQL for managing and querying relational databases."
                         },
                         {
                             "id":"6",
-                            "src":"../src/assets/mongo.png",
+                            "src":"https://i.ibb.co/RQ9H3Tz/mongo.png",
                             "title":"MongoDb",
                             "exp":"Intermediate",
                             "description":"Skilled in MongoDB, a scalable NoSQL database with a flexible, JSON-like structure."
@@ -53,14 +53,14 @@
                                 },
                                 {
                                     "id":"8",
-                                    "src":"../src/assets/html.png",
+                                    "src":"https://i.ibb.co/MGh79Qk/react.png",
                                     "title":"Html",
                                     "exp":"Advanced",
                                     "description":"Well-versed in HTML for web content structuring."
                                     },
                                     {
                                         "id":"9",
-                                        "src":"../src/assets/frontend.png",
+                                        "src":"https://i.ibb.co/nctfB2R/frontend.png",
                                         "title":"CSS",
                                         "exp":"Advanced",
                                         "description":"Proficient in CSS for styling and layout of web pages."

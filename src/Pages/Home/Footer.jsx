@@ -27,7 +27,7 @@ export default function Footer() {
             </div>
         </div>
         <div className='nextblock'>
-          <img src="../src/assets/newgit.jpg" alt="" />
+          <img src="https://i.ibb.co/c10wgH8/newgit.jpg" alt="" />
             <div className='nextblocklink'>
             <a className='btn btn-primary'  href="/about">About Me</a>
             <a className='btn btn-primary' href="/contact">Contact Me</a>

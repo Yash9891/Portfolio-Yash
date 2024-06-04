@@ -43,7 +43,7 @@ export default function Contact() {
         </div>
         <div className='contact2'>
           <div>
-            <img className='congif' src="./src/assets/system.gif" alt="" />
+            <img className='congif' src="https://i.pinimg.com/originals/e4/d3/95/e4d395849317f98f2a418c0e10182b0d.gif" alt="" />
           </div>
 
         <div className='con2info'>
