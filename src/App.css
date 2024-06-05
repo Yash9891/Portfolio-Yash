@@ -271,12 +271,12 @@ body {
 .hero-section-image{
   
   border-radius: 50%;
-  height: 500px;
-  width: 500px;
+  height: 450px;
+  width: 450px;
   background-image: url('./assets/1680012797346_2-removebg.png');
   background-repeat: no-repeat;
   background-position: center top;
-  background-size: 430px;
+  background-size: 370px;
   /* border: 5px solid rgb(202, 199, 199); */
   /* border-style: outset; */
   background-color: #2b2a2a;
