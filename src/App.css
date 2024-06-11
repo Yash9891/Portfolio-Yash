@@ -254,6 +254,7 @@ body {
  /* background-image: linear-gradient(to bottom right, #1b1b1b, rgb(52, 51, 51)); */
   color: rgb(239, 235, 235);
   background-color: #1616199c;
+  width: 100%;
  
 }
 .section-title{
@@ -2478,12 +2479,12 @@ flex-direction: column;
 }
 .frontImage {
   height: 230px;
-  width: 230px;
+  width: 270px;
 
 }
 .backImage {
   height: 230px;
-  width: 230px;
+  width: 300px;
 
 }
 
@@ -3071,12 +3072,12 @@ margin-bottom: 20px;
 }
 .frontImage {
   height: 200px;
-  width: 200px;
+  width: 250px;
 
 }
 .backImage {
   height: 200px;
-  width: 200px;
+  width: 250px;
 
 }
 
