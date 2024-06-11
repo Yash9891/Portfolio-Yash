@@ -66,18 +66,18 @@ export default function Navbar2() {
         <div className={`navbar--items ${navActive ? "active" : ""}`}>
           <ul>
           <li>
-              <a href="/" className="navbar--content nav-button" onClick={closeMenu}>
+              <a href="/" className="navbar--content whitecol" onClick={closeMenu}>
                 Home
               </a>
             </li>
     
             <li>
-              <a href="/about" className="navbar--content nav-button" onClick={closeMenu}>
+              <a href="/about" className="navbar--content whitecol" onClick={closeMenu}>
                 About
               </a>
             </li>
             <li>
-              <a href="/contact" className="navbar--content nav-button" onClick={closeMenu}>
+              <a href="/contact" className="navbar--content whitecol" onClick={closeMenu}>
                 Contact
               </a>
             </li>

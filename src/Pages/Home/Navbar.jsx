@@ -129,12 +129,12 @@ function Navbar() {
 
             </li>
             <li>
-              <a href="/about" className="navbar--content nav-button" onClick={closeMenu}>
+              <a href="/about" className="navbar--content whitecol " onClick={closeMenu}>
                 About
               </a>
             </li>
             <li>
-              <a href="/contact" className="navbar--content nav-button" onClick={closeMenu}>
+              <a href="/contact" className="navbar--content whitecol" onClick={closeMenu}>
                 Contact
               </a>
             </li>
