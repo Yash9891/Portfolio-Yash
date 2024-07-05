@@ -2625,7 +2625,12 @@ flex-direction: column;
   width: 95%;
 }
 
+.projects h1 {
 
+  font-size: 3rem;
+  margin: 35px 0;
+
+}
 
 }
 @media  screen and (max-width:834px) {
@@ -2663,7 +2668,12 @@ flex-direction: column;
    
     
 }
+.projects h1 {
 
+  font-size: 3rem;
+  margin: 35px 0;
+
+}
 .hero-section-desc {
   text-align: center;
   font-size: 1rem;
