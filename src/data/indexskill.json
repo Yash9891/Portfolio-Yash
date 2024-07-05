@@ -20,7 +20,7 @@
                 "id":"3",
                 "src":"https://i.ibb.co/JB08b7p/node.webp",
                 "title":"NodeJs",
-                "exp":"Biginner",
+                "exp":"Beginner",
                 "description":"Skilled in Node.js for server-side JavaScript execution."
                 },
                 {
@@ -85,11 +85,11 @@
         },
         {
             "id":"3",
-            "src":"https://i.ibb.co/Qd3cMdM/cartrack.png",
+            "src":"https://i.ibb.co/DzyMXPZ/carv1.png",
             "title":"CarTrack",
             "description":"CarTrack is a visually stunning website dedicated to showcasing various car models. ",
-            "gitlink":"https://github.com/Yash9891/RebelTechs-CarTrack_HACK-O-FEST",
-            "projectlink":"https://cartrack-rebeltechs.netlify.app/"
+            "gitlink":"https://github.com/Yash9891/CarTrack-Version-2",
+            "projectlink":"https://cartrack2.netlify.app/"
         },
         {
             "id":"4",

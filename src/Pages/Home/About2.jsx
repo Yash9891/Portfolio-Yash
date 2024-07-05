@@ -16,7 +16,7 @@ export default function About2() {
       <div className='about3Section'>
         <div className='about3Section1'>
           <div className='hiremeHeading'>      
-              <h1>{hireme}</h1>
+              <h1 className='hireheading'>{hireme}</h1>
         <p>The Power of Education, guided by my passion for continuous learning and growth.</p></div>
 
           <div className='hiremeSection'>

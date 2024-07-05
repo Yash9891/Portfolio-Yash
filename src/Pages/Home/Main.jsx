@@ -16,7 +16,7 @@ export default function Main() {
       <div className='about3Section'>
         <div className='about3Section1'>
           <div className='mainHeading'>      
-              <h1>{hireme}</h1>
+              <h1 className='kop'>{hireme}</h1>
 </div>
 
           <div className='hiremeSection'>

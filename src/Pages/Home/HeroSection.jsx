@@ -12,13 +12,9 @@ function HeroSection() {
 
         <div className="hero-section-content-box">
             <div className="hero-section-content">
-                <p className="section-title">Hello I'm Yash</p>
+
                 <h1 className="hero-section-title">
-                    <span className="hero-section-title-color">
-                        Software
-                    </span>{" "}
-                    <br />
-                    <span className="dev">Developer</span>
+                <span className="herospan"> I'm Yash,</span> a dedicated and innovative <span className="herospan  text, sec-text">Software </span>Developer.
                     
                 </h1>
                 <p className="hero-section-desc">
@@ -26,8 +22,11 @@ function HeroSection() {
                 </p>
               
             </div>
+            <div className="herobutton">
             <a href="/contact" className="btn btn-primary">Get in Touch</a>
-
+            <a href="https://drive.google.com/file/d/1t19NMHRr0ZCMmDcbQGkEF8QBun3tMHeO/view?usp=sharing" className="btn2 btn-primary" target="_blank" rel="noreferrer">My Resume</a>
+        
+            </div>
         </div>
 
         <div className="hero-section-image">

@@ -12,7 +12,7 @@ export default function About() {
      <div className='aboutme'>
         
        <div className='about1'>
-        <h1>Hello!<span> My name is</span > <span>Yash</span></h1>
+        <h1>Hello!<span> My name is</span > Yash</h1>
         <div className='aboutcontainer'>
 
           <div className='aboutimg'>
@@ -56,7 +56,7 @@ export default function About() {
         </a>
        <div>
        <h3>MegaCampy</h3>
-         <p>This is the Backend Projcet which is full of the excitement.</p>
+         <p>This is a Fullstack project where user can create, delete and review the campgrounds.</p>
          <span><FaStar /><FaStar /><FaStar /><FaStar /><FaStar /></span>
        </div>
         </div>
@@ -68,19 +68,19 @@ export default function About() {
         </a>
        <div>
        <h3>Nflims</h3>
-         <p>This is the Backend Projcet which is full of the excitement.</p>
+         <p>Nfilms is a frontend project in which user can search about any movie and tv show.</p>
          <span><FaStar /><FaStar /><FaStar /><FaStar /></span>
        </div>
         </div>
         <div className='box'>
-        <a className='imageconatiner' target="_blank" rel="noreferrer" href="https://cartrack-rebeltechs.netlify.app/">
+        <a className='imageconatiner' target="_blank" rel="noreferrer" href="https://cartrack2.netlify.app/">
           <div className='images images3'>
           </div>
     
         </a>
        <div>
        <h3>CarTrack</h3>
-         <p>This is the Backend Projcet which is full of the excitement.</p>
+         <p>This is a frontend car show project which has great UI and user can search about cars. </p>
          <span><FaStar /><FaStar /><FaStar /></span>
        </div>
         </div>
@@ -92,7 +92,7 @@ export default function About() {
         </a>
        <div>
        <h3>Amazon Cone</h3>
-         <p>This is the Backend Projcet which is full of the excitement.</p>
+         <p>This is an Amazon Clone website which has almost similar UI like Amazon.</p>
          <span><FaStar /><FaStar /><FaStar /></span>
        </div>
         </div>

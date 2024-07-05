@@ -18,7 +18,7 @@ export default function Contact() {
         <div className='contact1'>
           <h1>Say <span>Hello</span></h1>
           <div className='emailbox'>
-           <div className='conatctimg'></div>
+           
             <div className='nameinput'>
               
               <div className='privatename'>
@@ -28,14 +28,14 @@ export default function Contact() {
             
             <div className='privatename'>
               <h4>Email</h4>
-            <input type="email" placeholder='@gmail'/>
+            <input type="email" placeholder='yash042002@gmail.com'/>
             </div>
 
             </div>
             
             <div className='privatename'>
               <h4>Type your message!</h4>
-            <textarea name="textbox" id="textbox" rows={2} cols={50}></textarea>
+            <textarea name="textbox" id="textbox" rows={2} cols={50} placeholder='Enter your message'></textarea>
             </div>
             <a className='submitbutton btn btn-primary' href="mailto:yash042002@gmail.com" target="_blank" rel="noreferrer">Submit</a>
           </div>
@@ -43,7 +43,7 @@ export default function Contact() {
         </div>
         <div className='contact2'>
           <div>
-            <img className='congif' src="https://i.ibb.co/fn4hPYy/system.gif" alt="" />
+            <img className='congif' src="https://i.ibb.co/Y8J9CYQ/giphy.gif" alt="" />
           </div>
 
         <div className='con2info'>

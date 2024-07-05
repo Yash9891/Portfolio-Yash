@@ -53,7 +53,7 @@ function Navbar() {
       <nav className={`navbar ${navActive ? "active" : ""}`}>
         <div className="nav__logo">
 
-          <h1>Yash<span>.</span></h1>
+          <h1>Yas<span>H.</span></h1>
           {/* <h3>
       Lets go for a <FaBeer />?
     </h3> */}
@@ -130,18 +130,19 @@ function Navbar() {
             </li>
             <li>
               <a href="/about" className="navbar--content whitecol " onClick={closeMenu}>
-                About
+                About Me
               </a>
             </li>
-            <li>
-              <a href="/contact" className="navbar--content whitecol" onClick={closeMenu}>
-                Contact
-              </a>
-            </li>
+            
             <li>
             <div className="darkmode" onClick={changeColor}>{color=="white"?<MdDarkMode/>:<MdOutlineLightMode></MdOutlineLightMode>}</div>
        
         </li>
+        <li>
+              <a href="/contact" className="navbar--content whitecol conbtn" onClick={closeMenu}>
+                Contact
+              </a>
+            </li>
           </ul>
         </div>
         

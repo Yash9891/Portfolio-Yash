@@ -11,7 +11,7 @@ export default function Resume() {
 
    <div className='blckcolor'>
     <h2>Crafting Success One <span>Achievement</span> at a <span>Time</span></h2>
-   <a href="https://drive.google.com/file/d/1FEttPjfKyItEhIfz6EtPlEUi9EPGrgPj/view" target="_blank" rel="noreferrer">
+   <a href="https://drive.google.com/file/d/1t19NMHRr0ZCMmDcbQGkEF8QBun3tMHeO/view?usp=sharing" target="_blank" rel="noreferrer">
       View My Resume
     </a>
    </div>

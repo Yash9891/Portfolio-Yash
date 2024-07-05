@@ -52,7 +52,7 @@ export default function Navbar2() {
    <nav className={`navbar ${navActive ? "active" : ""}`}>
         <div className="nav__logo">
 
-        <h1>Yash<span>.</span></h1>
+        <h1>Yas<span>H.</span></h1>
         </div>
         <a
           href="#"
@@ -73,18 +73,19 @@ export default function Navbar2() {
     
             <li>
               <a href="/about" className="navbar--content whitecol" onClick={closeMenu}>
-                About
+                About Me
               </a>
             </li>
-            <li>
-              <a href="/contact" className="navbar--content whitecol" onClick={closeMenu}>
-                Contact
-              </a>
-            </li>
+           
             <li>
             <div className="darkmode" onClick={changeColor}>{color=="white"?<MdDarkMode/>:<MdOutlineLightMode></MdOutlineLightMode>}</div>
        
         </li>
+        <li>
+              <a href="/contact" className="navbar--content whitecol conbtn" onClick={closeMenu}>
+                Contact
+              </a>
+            </li>
           </ul>
         </div>
         
