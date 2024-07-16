@@ -69,7 +69,7 @@
     "portfolio":[
         {
             "id":"1",
-            "src":"https://private-user-images.githubusercontent.com/122812129/300182762-d5d94b18-872c-406b-87ea-39002eebd3d9.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjExMjg5MTUsIm5iZiI6MTcyMTEyODYxNSwicGF0aCI6Ii8xMjI4MTIxMjkvMzAwMTgyNzYyLWQ1ZDk0YjE4LTg3MmMtNDA2Yi04N2VhLTM5MDAyZWViZDNkOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcxNlQxMTE2NTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xZjJmMzY4NGE5MTdiMGUzYmRmODEyYmU5ZmFmNWMxMmNjOGM0Yjk3NWY0ZWUyMGZjNTc2N2YzZjU0YjNkYzA3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.IzAA2ZwUmk0mYie1877vle8gMrq45AQon77qK9UsZDc",
+            "src":"https://i.postimg.cc/qqrjkP4w/300182762-d5d94b18-872c-406b-87ea-39002eebd3d9.png",
             "title":"MegaCampy",
             "description":"MegaCampy lets you create, edit, delete, and review campgrounds with custom pricing.",
             "gitlink":"https://github.com/Yash9891/Campgrounds",
@@ -93,7 +93,7 @@
         },
         {
             "id":"4",
-            "src":"https://private-user-images.githubusercontent.com/122812129/250536691-4353da9e-ae5e-4669-a2a0-fe14db482f77.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjExMjg5NTcsIm5iZiI6MTcyMTEyODY1NywicGF0aCI6Ii8xMjI4MTIxMjkvMjUwNTM2NjkxLTQzNTNkYTllLWFlNWUtNDY2OS1hMmEwLWZlMTRkYjQ4MmY3Ny5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcxNlQxMTE3MzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jOTFlZWJhNTI0NGQwNjViMzlmZTJlOGFhN2E1NjZlYzRkOTZmMGU5YjEyN2Y4YWFkNGNmNzQ2ODViNzZiMWM5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.veSwypLj2yR1-j4rei_cHLbWSw9MSuArrPRzIFLeo2g",
+            "src":"https://i.postimg.cc/J41PSCT4/250536691-4353da9e-ae5e-4669-a2a0-fe14db482f77.png",
             "title":"Amazon Clone",
             "description":"Created a frontend Amazon clone with a stunning UI.",
             "gitlink":"https://github.com/Yash9891/Amazon-Clone",
