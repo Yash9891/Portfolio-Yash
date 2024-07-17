@@ -24,7 +24,7 @@ function HeroSection() {
             </div>
             <div className="herobutton">
             <a href="/contact" className="btn btn-primary">Get in Touch</a>
-            <a href="https://drive.google.com/file/d/1t19NMHRr0ZCMmDcbQGkEF8QBun3tMHeO/view?usp=sharing" className="btn2 btn-primary" target="_blank" rel="noreferrer">My Resume</a>
+            <a href="https://drive.google.com/file/d/1w9BqcwBrbTihKI3nFGuyHnC4nV0NqOP8/view?usp=sharing" className="btn2 btn-primary" target="_blank" rel="noreferrer">My Resume</a>
         
             </div>
         </div>

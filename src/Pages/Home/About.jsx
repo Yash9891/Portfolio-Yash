@@ -67,7 +67,7 @@ export default function About() {
     
         </a>
        <div>
-       <h3>Nflims</h3>
+       <h3>Nfilms</h3>
          <p>Nfilms is a frontend project in which user can search about any movie and tv show.</p>
          <span><FaStar /><FaStar /><FaStar /><FaStar /></span>
        </div>
@@ -91,7 +91,7 @@ export default function About() {
     
         </a>
        <div>
-       <h3>Amazon Cone</h3>
+       <h3>Amazon Clone</h3>
          <p>This is an Amazon Clone website which has almost similar UI like Amazon.</p>
          <span><FaStar /><FaStar /><FaStar /></span>
        </div>

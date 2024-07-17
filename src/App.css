@@ -769,15 +769,16 @@ body {
 .blckcolor a{
   border: 1px solidblack;
   color: var(--github);
-  background-color: #ffffff;
+  background-color: #3f3d3db2;
   
-  width: 220px;
+  width: 200px;
   text-align: center;
   border-radius: 0.7rem;
-  padding: 2px 9px;
+  padding: 5px 6px;
   font-size: 1.3rem;
   font-weight: 600;
   text-decoration: none;
+  color: white;
   
 
 }
@@ -882,7 +883,7 @@ body {
   background-color: #070809;
   color: white;
   height: 400px;
-  background-color: #141418;
+  background-color: #111114;
   border-top: 3px solid white;
   border-color: #37373b;
   padding-top: 35px;
@@ -1023,6 +1024,7 @@ body {
   width: 50%;
   background-color: #000000;
   height:100%;
+  
 
 } 
 .emailbox{
@@ -1273,6 +1275,7 @@ background: linear-gradient(264deg, #7400d3 -5.09%, #f73676 106.28%);
   margin-top: 20px;
   border: 1px solid rgb(65, 62, 62);
   font-weight: 500;
+  font-size: 1.2rem;
 }
 .aboutpara p:hover{
   cursor: pointer;
@@ -1498,7 +1501,7 @@ color: #ff5d9b;
   justify-content: flex-start;
   padding: 10px;
   flex-direction: column;
- background-color: #252428;
+ background-color: #212123;
 color: white;
 }
 .about3Section1 h1{
@@ -1570,7 +1573,8 @@ color: white;
 
 /* //main */
 .mainpercentage{
-  color: rgb(132, 206, 249);
+  color: rgb(148, 114, 250);
+ 
 
 }
 .mainpercentage p{
@@ -1589,6 +1593,9 @@ color: white;
   color: rgb(132, 206, 249);
  font-size: 1rem;
  font-weight: 500;
+ background: linear-gradient(270deg, #f779ed 10%, #906ef7 100%);
+ -webkit-text-fill-color: transparent;
+ -webkit-background-clip: text;
 
 
 }
@@ -1610,9 +1617,9 @@ color: white;
   font-size: 2.5rem;
   text-align: center;
   padding-bottom: 20px;
-  background: linear-gradient(270deg, #54c9fb 10%, #5d37f6 100%);
-    -webkit-text-fill-color: transparent;
-    -webkit-background-clip: text;
+  background: linear-gradient(270deg, #f779ed 10%, #7348f2 100%);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
   
 }
 .mainHeading p{
@@ -1651,24 +1658,29 @@ color: white;
   border: none;
   font-weight: 600;
   color: white;
-  background-color: #2d2c32;
+  background-color: #252529;
   border-radius: 0.3rem;
 }
 .mainSection2 button:hover{
   background-color: #f91d4f;
   background: linear-gradient(270deg, #42aff7 10%, #674adb 100%);
   cursor: pointer;
-
+  background: linear-gradient(270deg, #c05bf3 10%, #8d04e3 100%);
+  
 }
 .mainpercentage p a{
   text-decoration: none;
   color:rgb(132, 206, 249);
   font-size: 0.9rem;
+  background: linear-gradient(270deg, #f779ed 10%, #906ef7 100%);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
 }
 .mainpercentage p a:hover{
 
   color: white;
-  border-bottom: 1px solid rgb(132, 206, 249);
+  border-bottom: 1px solid rgb(201, 37, 234);
+  
 }
 .homepage{
   display: flex;
@@ -1944,7 +1956,7 @@ color: white;
 }
 .main--contents h3 {
  
-  font-size: 0.6rem;
+  font-size: 0.8rem;
 
 }
 .main--contents h2 {
@@ -2023,7 +2035,7 @@ color: white;
 }
 .con2info h1 {
 
-  font-size: 2rem;
+  font-size: 2.6rem;
   
 }
 .con2info span {
@@ -2036,7 +2048,7 @@ color: white;
 
 }
 .aboutpara p {
-  font-size: 0.8rem;
+  font-size: 1rem;
   
 }
 .topskills h5 {
@@ -2481,7 +2493,7 @@ flex-direction: column;
 }
 .con2info h1 {
 
-  font-size: 2rem;
+  font-size: 2.6rem;
   
 }
 .con2info span {
@@ -2494,7 +2506,7 @@ flex-direction: column;
 
 }
 .aboutpara p {
-  font-size: 0.8rem;
+  font-size: 1rem;
   
 }
 .topskills h5 {
@@ -2579,7 +2591,7 @@ flex-direction: column;
   right: 0;
   width: 100%;
 
-  padding-top: 40px;
+  /* padding-top: 40px; */
 }
 .contact1 {
   width: 70%;
@@ -3117,7 +3129,7 @@ margin-bottom: 20px;
 }
 .con2info h1 {
 
-  font-size: 2rem;
+  font-size: 2.6rem;
   
 }
 .con2info span {
@@ -3170,7 +3182,7 @@ margin-bottom: 20px;
 
 .about3Section1 h1 {
  
-  font-size: 2.3rem;
+  font-size: 2rem;
  
 
 }
@@ -3237,7 +3249,7 @@ margin-bottom: 20px;
   right: 0;
   width: 100%;
 
-  padding-top: 40px;
+  /* padding-top: 40px; */
 }
 
 .nav__logo h1 {
@@ -3720,12 +3732,12 @@ font-size: 2rem;
 
 }
 
-/* .about3Section1 h1 {
+.about3Section1 h1 {
  
-  font-size: 1.2rem;
+  font-size: 1.6rem;
  
 
-} */
+}
 
 .hiremeHeading h1{
 
@@ -3766,7 +3778,7 @@ font-size: 2rem;
   right: 0;
   width: 100%;
 
-  padding-top: 40px;
+
 }
 .contact1 {
   width: 90%;
