@@ -77,7 +77,7 @@
         },
         {
             "id":"2",
-            "src":"https://i.ibb.co/bQXg4qq/nfilm.png",
+            "src":"https://i.imghippo.com/files/vcjUB1729226037.png",
             "title":"Nfilms",
             "description":"It is an API-based website where you can find information about any of your favourite shows. ",
             "gitlink":"https://github.com/Yash9891/Nfilms-WatchTvShows",
@@ -85,7 +85,7 @@
         },
         {
             "id":"3",
-            "src":"https://i.ibb.co/DzyMXPZ/carv1.png",
+            "src":"https://i.imghippo.com/files/HOmV71729226293.png",
             "title":"CarTrack",
             "description":"CarTrack is a visually stunning website dedicated to showcasing various car models. ",
             "gitlink":"https://github.com/Yash9891/CarTrack-Version-2",
@@ -98,6 +98,22 @@
             "description":"Created a frontend Amazon clone with a stunning UI.",
             "gitlink":"https://github.com/Yash9891/Amazon-Clone",
             "projectlink":"https://yash9891.github.io/Amazon-Clone/"
+        },
+        {
+            "id":"5",
+            "src":"https://i.imghippo.com/files/fIBhg1729226751.png",
+            "title":"Product Store",
+            "description":"Built a product store using the MERN stack (MongoDB, Express.js, React.js, Node.js).",
+            "gitlink":"https://github.com/Yash9891/ProductStore",
+            "projectlink":"https://productstore-7tqn.onrender.com"
+        },
+        {
+            "id":"6",
+            "src":"https://i.imghippo.com/files/aJ7v11729226684.png",
+            "title":"Invoice Generator",
+            "description":"The Invoice Generator is a web-based application that enables users to effortlessly create, manage, and store invoices.",
+            "gitlink":"https://github.com/Yash9891/Invoice-Generator",
+            "projectlink":"https://invoicegenerator102.netlify.app/"
         }
        
         
